@@ -1,4 +1,4 @@
-# 🧠 REX.LIBRARY — Serverless Digital Archive System (Case Study)
+# 🧠 REX.LIBRARY — Serverless Digital Archive System
 
 <p align="center">
 
@@ -14,7 +14,7 @@
 
 ## 🚀 Overview
 
-**REX.LIBRARY** is an enterprise-grade **serverless digital archive and asset tracking system** built by **IQROGUEREX**.
+**REX.LIBRARY** is an enterprise-grade **serverless digital archive and asset tracking system** built by **Chinmay V Chatradamath**.
 
 It demonstrates a **full-stack cloud architecture**, combining a modern frontend dashboard with a scalable backend powered by AWS services.
 
