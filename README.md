@@ -1,4 +1,4 @@
-# 🧠 REX.LIBRARY — Serverless Digital Archive System
+# 🧠 REX.LIBRARY — Serverless Digital Archive System.
 
 <p align="center">
 
